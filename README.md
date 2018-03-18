@@ -1,1 +1,1 @@
-# epfl-iapr18-homework-project
+# EPFL: Image Analysis and Pattern Recognition
